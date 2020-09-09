@@ -241,6 +241,7 @@ INCLUDE fgbbgd00.               "Data types
 * Reason Of Modification : User exit for vendor and business area      *
 *                          validattion.
 *----------------------------------------------------------------------*
+DATA: lv_test TYPE string.
 
 TABLES : zgtfitr_refk.
 *&---------------------------------------------------------------------*
